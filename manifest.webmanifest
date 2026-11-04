@@ -1,0 +1,17 @@
+{
+  "name": "鏡映拼圖 Mirror Collage",
+  "short_name": "鏡映拼圖",
+  "description": "鏡像特效與多圖拼接：對稱倒影、萬花筒、無縫拼接。© 2026 James Chen 陳進勇 版權所有",
+  "lang": "zh-Hant",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#16181d",
+  "theme_color": "#16181d",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
